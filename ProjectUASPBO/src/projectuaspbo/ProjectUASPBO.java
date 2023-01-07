@@ -31,14 +31,14 @@ public class ProjectUASPBO {
         */
         Pesanan pesan2 = new Pesanan();
         
-        pesan2.pesanManis1(50);
-        pesan2.pesanManis2(100);
-        pesan2.pesanManis3(70);
+//         pesan2.pesanManis1(50);
+//         pesan2.pesanManis2(100);
+//         pesan2.pesanManis3(70);
         
-        pesan2.pesanTawar1(20);
-        pesan2.pesanTawar2(15);
+//         pesan2.pesanTawar1(20);
+//         pesan2.pesanTawar2(15);
         
-        pesan2.pesanPizza1(10);
+//         pesan2.pesanPizza1(10);
     }
     
 }
